@@ -11,12 +11,12 @@ Sales and finance leadership need a fast, visual way to track performance across
 ### Executive Overview
 KPIs, top-performing products, sales by territory, and sales reasons at a glance.
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](executive-overview.png)
 
 ### Sales Overview
 YoY growth trends for revenue, sales volume, orders, and customers, split by online/offline channel.
 
-![Sales Overview](screenshots/sales-overview.png)
+![Sales Overview](sales-overview.png)
 
 ## Key Features
 
